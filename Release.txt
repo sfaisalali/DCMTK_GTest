@@ -1,0 +1,21 @@
+/**
+ * Ram Soft Assesment Project - DCMTK load DICOM
+ *
+ * @author :    Syed Faisal Ali
+ * @Date:       2024-09-13
+ * @info   :    Initial version
+ *
+ * REVISION :
+ *      _MOD_VERSION_  NA
+ */
+
+
+Project Specification - 
+- Load Dicom Image
+- Check if encrypted/encoded 
+- Save Decoded DCM
+- Read Pixel Data
+- Read Object Tags
+- Save to Disc
+- Unit Testing 
+	
